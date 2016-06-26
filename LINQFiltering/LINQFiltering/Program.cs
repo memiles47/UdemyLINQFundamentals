@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace LINQFiltering
 {
-    class Program
+    internal class Program
     {
-        static void Main()
+        private static void Main()
         {
             var numbers = new List<int> {15, 24, 40, 32, 55};
 
