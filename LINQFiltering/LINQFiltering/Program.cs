@@ -14,7 +14,7 @@ namespace LINQFiltering
 
             foreach (var num in evenNumbers)
                 Console.WriteLine(num);
-
+            
             Console.ReadLine();
         }
     }
